@@ -7,7 +7,7 @@ The Bot Builder V4 SDK for .NET went GA today! We're working on updating the lab
 ## Lab 2.2
  [1_Dialogs_and_Regex.md](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/1_Dialogs_and_Regex.md)
 * At the beginning of Lab 1.1 Setting up for bot development, follow the instructions to Download the Bot Emulator.
-* Next, **read only** Lab 1.2 Creating a simple bot and running it, **until** the line "Get stuck? You can find the solution for the lab up until this point under [resources/code/FinishedPictureBot-Part0](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/resources/code/FinishedPictureBot-Part0)." Open the solution under "PictureBot-FinishedSolution-Part0", which should already be on your local drive if you completed the previous labs, and start the lab from there.
+* Next, **read only** Lab 1.2 Creating a simple bot and running it, **until** the line "Get stuck? You can find the solution for the lab up until this point under [resources/code/PictureBot-FinishedSolution-Part0](https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.2-building_bots/resources/code/PictureBot-FinishedSolution-Part0/PictureBot)." Open the solution under "PictureBot-FinishedSolution-Part0", which should already be on your local drive if you completed the previous labs, and start the lab from there.
 * Do not update any packages!!  
 
 [4_Publish_and_Register](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/4_Publish_and_Register.md)
